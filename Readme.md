@@ -36,5 +36,7 @@ The objective of this project is to build an AI Teaching Assistant that can accu
 
 ### ✅ Status
 1-> Initial project documentation completed
+
 2-> Code Written for Downloading videos from Youtube
+
 3-> Videos To audio completed

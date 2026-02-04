@@ -31,7 +31,10 @@ The assistant operates on **video data**, where knowledge is extracted from lect
 The objective of this project is to build an AI Teaching Assistant that can accurately answer **what**, **where**, and **when** a topic was taught in a video-based course, overcoming the limitations of standalone LLMs.
 
 ---
+#### Here I am using videos of "Code With Harray -- Sigma Web Development Course"
+---
 
 ### ✅ Status
---> Initial project documentation completed
---> Code Written for Downloading videos from Youtube
+1-> Initial project documentation completed
+2-> Code Written for Downloading videos from Youtube
+3-> Videos To audio completed

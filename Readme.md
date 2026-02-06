@@ -39,6 +39,7 @@ The objective of this project is to build an AI Teaching Assistant that can accu
 ## Tools :
 
 --> Open ai - Whisper
+--> Olama
 
 ---
 ### ✅ Status
@@ -47,3 +48,8 @@ The objective of this project is to build an AI Teaching Assistant that can accu
 2-> Code Written for Downloading videos from Youtube
 
 3-> Videos To audio completed
+
+4-> audio to chunks
+
+---
+### In this project i just used Opensource tools 
